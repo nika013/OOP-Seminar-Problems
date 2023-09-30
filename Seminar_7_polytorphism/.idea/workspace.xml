@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7105ff92-b49c-4c9a-bbd2-4ec48bb6588d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminar_15/Seminar_15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/Seminar_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/src/java_package/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_17/src/webapp/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Inheritances/BetterChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_5/src/main/java/org/example/BooleanArrayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar_9_Students/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/lib/commons-dbcp2-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/lib/commons-pool2-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/lib/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/ArrayListStudentsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/ContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/StudentsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/java/StudentsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_examples/src/main/webapp/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-webapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Electronic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Mobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_4/src/main/java/org/example/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar_5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar_5/src/main/java/org/example/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar_5/src/main/java/org/example/Filter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OpCNGjy2eT1OvSNtGN6Pad6cyx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/nika/Desktop/Freeuni (V Semester)/OOP/OOP-seminars/Seminar_6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7105ff92-b49c-4c9a-bbd2-4ec48bb6588d" name="Changes" comment="" />
+      <created>1682248098043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682248098043</updated>
+      <workItem from="1682248099298" duration="5178000" />
+      <workItem from="1689251111717" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
